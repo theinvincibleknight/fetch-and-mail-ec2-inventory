@@ -1,0 +1,1 @@
+# fetch-and-mail-ec2-inventory
